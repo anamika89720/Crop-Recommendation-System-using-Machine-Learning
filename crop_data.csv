@@ -1,0 +1,5 @@
+temperature,rainfall,soil_type,crop
+30,100,Loamy,Wheat
+35,150,Clay,Rice
+28,80,Sandy,Maize
+25,50,Loamy,Barley
